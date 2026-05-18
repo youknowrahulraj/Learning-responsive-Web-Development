@@ -1,0 +1,116 @@
+body {
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Common Table Styling */
+table {
+    width: 70%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+    padding: 12px;
+}
+
+/* Header */
+th {
+    background-color: #333;
+    color: white;
+}
+
+/* Zebra Effect */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Hover Effect */
+tr:hover {
+    background-color: lightblue;
+    transition: 0.3s;
+}
+
+/* Dotted */
+.dotted,
+.dotted th,
+.dotted td {
+    border: 2px dotted black;
+}
+
+/* Dashed */
+.dashed,
+.dashed th,
+.dashed td {
+    border: 2px dashed black;
+}
+
+/* Solid */
+.solid,
+.solid th,
+.solid td {
+    border: 2px solid black;
+}
+
+/* Double */
+.double,
+.double th,
+.double td {
+    border: 3px double black;
+}
+
+/* Groove */
+.groove,
+.groove th,
+.groove td {
+    border: 8px groove #666;
+}
+
+/* Ridge */
+.ridge,
+.ridge th,
+.ridge td {
+    border: 8px ridge #666;
+}
+
+/* Inset */
+.inset,
+.inset th,
+.inset td {
+    border: 8px inset #666;
+}
+
+/* Outset */
+.outset,
+.outset th,
+.outset td {
+    border: 8px outset #666;
+}
+
+/* None */
+.none,
+.none th,
+.none td {
+    border: none;
+}
+
+/* Hidden */
+.hidden,
+.hidden th,
+.hidden td {
+    border: hidden;
+}
