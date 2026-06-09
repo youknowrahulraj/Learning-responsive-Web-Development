@@ -1,124 +1,18 @@
-# Learning Responsive Web Development 🚀
+## 🔗 Projects
 
-Welcome to my Web Development learning repository. This repository documents my journey of learning and building responsive websites through daily practice, projects, and experiments.
+This repository contains projects and exercises completed throughout my web development learning journey. Each project focuses on different concepts and helps strengthen my understanding of frontend development.
 
-My goal is to strengthen my frontend development skills by consistently building projects, exploring new concepts, and applying best practices in HTML, CSS, and JavaScript.
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-1/">Day 1</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-2/">Day 2</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-3/">Day 3</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-4/">Day 4</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-5/">Day 5</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-6/">Day 6</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-7/">Day 7</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-8/">Day 8</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-9/">Day 9</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-10/">Day 10</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-11/">Day 11</a>
+* <a href="https://youknowrahulraj.github.io/Learning-responsive-Web-Development/CSS%20Transform%20Property/">CSS Transform Playground</a>
 
----
-
-## 📚 Learning Progress
-
-### Day 1
-
-* HTML Basics
-* Page Structure
-
-### Day 2
-
-* Headings, Paragraphs & Links
-
-### Day 3
-
-* Lists & Navigation
-
-### Day 4
-
-* Images & Multimedia
-
-### Day 5
-
-* Forms & Input Elements
-
-### Day 6
-
-* Tables, Rowspan & Colspan
-
-### Day 7
-
-* CSS Fundamentals
-
-### Day 8
-
-* Box Model & Positioning
-
-### Day 9
-
-* Flexbox Layout
-
-### Day 10
-
-* Responsive Design & CSS Grid
-
-### Day 11
-
-* CSS Transform Properties
-* 2D Transformations
-* 3D Transformations
-* Hover Effects & Animations
-
----
-
-## 🌟 Featured Project
-
-### CSS Transform Playground
-
-A modern and responsive showcase of CSS Transform properties built using HTML and CSS.
-
-#### Features
-
-* Scale (`scale`, `scaleX`, `scaleY`)
-* Translate (`translate`, `translateX`, `translateY`, `translate3d`)
-* Rotate (`rotate`, `rotateX`, `rotateY`)
-* Skew (`skew`, `skewX`, `skewY`)
-* Matrix Transformations
-* 3D Transform Effects
-* Responsive Grid Layout
-* Interactive Hover Animations
-
-#### Technologies Used
-
-* HTML5
-* CSS3
-* CSS Grid
-* CSS Transform
-
----
-
-## 🔗 Live Projects
-
-After enabling GitHub Pages, projects can be accessed using the following structure:
-
-```text
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-1/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-2/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-3/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-4/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-5/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-6/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-7/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-8/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-9/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-10/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/Day-11/
-https://youknowrahulraj.github.io/Learning-responsive-Web-Development/CSS%20Transform%20Property/
-```
-
----
-
-## 🎯 Goals
-
-* Master HTML, CSS, and JavaScript
-* Build responsive and accessible websites
-* Create real-world frontend projects
-* Develop a strong portfolio
-* Prepare for advanced frontend and full-stack development
-
----
-
-## 👨‍💻 Author
-
-**Rahul Raj**
-
-Learning, building, and improving one project at a time.
-
-⭐ If you like this repository, feel free to star it and follow my learning journey.
+More projects will be added as I continue learning and building.
